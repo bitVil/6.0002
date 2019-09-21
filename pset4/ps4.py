@@ -1,7 +1,6 @@
 # Problem Set 4: Simulating the Spread of Disease and Bacteria Population Dynamics
-# Name:
-# Collaborators (Discussion):
-# Time:
+# Name: David Fox
+
 
 import math
 import numpy as np
